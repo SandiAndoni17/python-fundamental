@@ -5,5 +5,5 @@ while read_book_count < book_count:
     read_book_count +=1
     print('Budi Telah Membaca {} buah buku' .format(read_book_count))
 
-print('Budi Telah Membaca Semua Buku')
+print('Budi Telah Membaca Semua Buku..')
 
