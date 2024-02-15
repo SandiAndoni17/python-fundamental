@@ -45,6 +45,6 @@ def main():
         else:
             print("pilihan tidak valid.")
 
-if __name__ == "__main__":
+if __name__ == "__main__": # perintah untuk jalankan fungsi main di line 24
     main()
 
